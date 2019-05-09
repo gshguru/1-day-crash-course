@@ -6,7 +6,7 @@
 |---|---|
 | Instructors | [Alex Smola](https://alex.smola.org) and [Mu Li](https://github.com/mli) |
 | Time | July 9, 2019 |
-| Locations | Room ?? <br> Room ?? |
+| Locations | Arizona Event Venue at Arizona (SEA29) 1st Floor  |
 
 ## Overview
 
@@ -80,4 +80,4 @@ courses and tutorials](http://courses.d2l.ai) based on the book.
 | 10min | [Data preprocessing for text](http://d2l.ai/chapter_recurrent-neural-networks/lang-model-dataset.html) |
 | 15min | Latent variable models in Python |
 | 10min | [Backpropagation through time](http://d2l.ai/chapter_recurrent-neural-networks/bptt.html) |
-| 20min | LSTM and GRU |
+| 20min | [LSTM](http://d2l.ai/chapter_recurrent-neural-networks/lstm.html) and [GRU](http://d2l.ai/chapter_recurrent-neural-networks/gru.html) |
