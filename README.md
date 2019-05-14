@@ -51,7 +51,7 @@ courses and tutorials](http://courses.d2l.ai) based on the book.
 | 8:00---9:00 | Setup clinic for laptops |
 | 15min | [Introduction to Deep Learning](http://d2l.ai/chapter_introduction/intro.html) |
 | 5min | [Installation](http://d2l.ai/chapter_install/install.html) |
-| 5min | [Linear Algebra](http://d2l.ai/chapter_install/linear-algebra.html) |
+| 5min | [Linear Algebra](http://d2l.ai/chapter_crashcourse/linear-algebra.html) |
 | 5min | [Autograd](http://d2l.ai/chapter_crashcourse/autograd.html) |
 | 10min | [Linear regression](http://d2l.ai/chapter_linear-networks/linear-regression.html) in [Gluon](http://d2l.ai/chapter_linear-networks/linear-regression-gluon.html) |
 | 10min | [Optimization](http://d2l.ai/chapter_optimization/index.html) |
